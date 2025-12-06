@@ -8,6 +8,28 @@ A React Native mobile application for booking and conducting teleconsultation ap
 
 **[Click here to watch the demo video](https://drive.google.com/file/d/18OqLPoDypsjLpB9ZndT5zLiNHwlplHvg/view?usp=sharing)**
 
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ff465bac-1e76-4cc4-a2b0-7c4fca44e5c1" width="250" /></td>
+    <td><img src="https://github.com/user-attachments/assets/1f663aca-749f-4fe6-b944-91361cc483a1" width="250" /></td>
+    <td><img src="https://github.com/user-attachments/assets/be683f15-9906-414a-8247-144c35f72d97" width="250" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/7cf0ef7c-65c8-4b43-93d8-da436a0030ee" width="250" /></td>
+    <td><img src="https://github.com/user-attachments/assets/65360218-3474-42df-909e-ea9bae023c31" width="250" /></td>
+    <td><img src="https://github.com/user-attachments/assets/e472ea8f-14c6-4d96-b1ab-09f55d53c6ca" width="250" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/6830f805-8330-41d0-a5cc-dd300d134ca6" width="250" /></td>
+    <td><img src="https://github.com/user-attachments/assets/181c3178-4d1e-4d80-9f7c-1d768b93dfc1" width="250" /></td>
+    <td><img src="https://github.com/user-attachments/assets/d5c30a52-5844-4b65-955b-2246026cccd0" width="250" /></td>
+  </tr>
+</table>
+
+
+
+
+
 ## Features
 
 - **Doctor Listing** - Browse available doctors for consultation
@@ -39,7 +61,7 @@ A React Native mobile application for booking and conducting teleconsultation ap
 
 1. **Clone the repository**
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/vishwa-glitch/TeleconsultApp
    cd TeleconsultApp
    ```
 
