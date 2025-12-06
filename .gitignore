@@ -73,3 +73,12 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# Build artifacts and logs
+build_error.txt
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
